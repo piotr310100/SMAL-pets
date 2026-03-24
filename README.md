@@ -17,4 +17,4 @@ This paper introduces , a comprehensive framework that generates high-quality, e
 This repository contains:
 - [ ] Code Published
 - [ ] Project pages with examples
-- [ ] Paper published on arXiv
+- [x] Paper published on arXiv

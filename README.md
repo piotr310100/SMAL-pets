@@ -5,6 +5,7 @@ Piotr Borycki*, Joanna Waczyńska*, Yizhe ZHU, Yongqiang Gao, Przemysław Spurek
 
 (* denotes equal contribution)
 
+[![arXiv](https://img.shields.io/badge/arXiv-2603.17131-red)](https://arxiv.org/abs/2603.17131) 
 </div>
 
 **Abstract:** 

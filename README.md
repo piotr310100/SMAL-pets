@@ -5,7 +5,7 @@ Piotr Borycki*, Joanna Waczyńska*, Yizhe ZHU, Yongqiang Gao, Przemysław Spurek
 
 (* denotes equal contribution)
 
-[![arXiv](https://img.shields.io/badge/arXiv-2603.17131-red)](https://arxiv.org/abs/2603.17131)  [![ProjectPage](https://img.shields.io/badge/Website-piotr310100.github.io/SMAL-pets/-blue)](https://piotr310100.github.io/SMAL-pets/)
+[![arXiv](https://img.shields.io/badge/arXiv-2603.17131-red)](https://arxiv.org/abs/2603.17131)  [![ProjectPage](https://img.shields.io/badge/Website-kornelhowil.github.io/CLIPGaussian/-blue)](https://piotr310100.github.io/SMAL-pets/)
 </div>
 
 **Abstract:** 
